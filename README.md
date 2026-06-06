@@ -233,3 +233,5 @@ const tariq = {
 ⭐ If you find my work useful, consider following me and starring my repositories!
 
 </div>
+
+<!-- profile -->
